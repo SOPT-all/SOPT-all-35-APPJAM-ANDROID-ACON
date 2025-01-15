@@ -35,7 +35,7 @@ include(
 
 include(
     ":feature:home",
-    ":feature:AreaVerification"
+    ":feature:areaverification"
 )
 
 include(":data")

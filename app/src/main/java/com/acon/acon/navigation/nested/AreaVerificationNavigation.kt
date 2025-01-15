@@ -11,8 +11,8 @@ import androidx.navigation.compose.navigation
 import androidx.navigation.navArgument
 import androidx.navigation.toRoute
 import com.acon.acon.navigation.route.AreaVerificationRoute
-import com.acon.feature.AreaVerification.AreaVerificationScreenContainer
-import com.acon.feature.AreaVerification.PreferenceMapScreen
+import com.acon
+import com.acon.feature.areaverification.PreferenceMapScreen
 
 internal fun NavGraphBuilder.areaVerificationNavigation(
     navController: NavHostController
