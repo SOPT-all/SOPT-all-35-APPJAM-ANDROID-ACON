@@ -12,8 +12,17 @@ sealed interface OnboardingRoute {
     data object ChooseUnlikeFoods : OnboardingRoute
 
     @Serializable
-    data object ChoosePreferFoods : OnboardingRoute
+    data object RatePreferFoods : OnboardingRoute
 
     @Serializable
-    data object ChoosePlace : OnboardingRoute
+    data object SelectFrequentPlace : OnboardingRoute
+
+    @Serializable
+    data object SelectPreferPlace : OnboardingRoute
+
+    @Serializable
+    data object RatePreferPlace : OnboardingRoute
+
+    @Serializable
+    data object LastLoading : OnboardingRoute
 }
