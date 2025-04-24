@@ -1,3 +1,11 @@
+**프로젝트 이전**
+
+https://github.com/AconInc/ACON-Android
+
+<br/>
+<br/>
+<br/>
+
 # SOPT-all-35-APPJAM-ANDROID-ACON
 acon은 “No more research”라는 슬로건을 가진 지도앱입니다.
 
